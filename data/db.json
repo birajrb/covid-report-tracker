@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "temperature": "99.5",
+      "oxygen": "98",
+      "time": "13:43",
+      "date": "2021-05-05",
+      "id": 2
+    },
+    {
+      "temperature": "100.2",
+      "oxygen": "96",
+      "time": "15:42",
+      "date": "2021-05-05",
+      "id": 3
+    },
+    {
+      "temperature": "99.7",
+      "oxygen": "95",
+      "time": "17:00",
+      "date": "2021-05-05",
+      "id": 4
+    },
+    {
+      "temperature": "97.6",
+      "oxygen": "96",
+      "time": "19:11",
+      "date": "2021-05-05",
+      "id": 5
+    }
+  ]
+}
